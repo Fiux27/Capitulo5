@@ -39,11 +39,5 @@ import java.util.Scanner;
                 inferior = centro + 1;
             }
         }
-
-        /*//for (int e = 0; e < arreglo.length; e++){
-            if (arreglo[e] == num_buscado){
-                System.out.println("El numero solicitado esta en la posicion "+ e);
-            }
-        }*/
     }
 }
